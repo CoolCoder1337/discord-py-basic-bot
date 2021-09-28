@@ -1,1 +1,1 @@
-# discord-py-basic-bot
+# Discord.py Basic Bot
